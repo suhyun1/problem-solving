@@ -1,5 +1,5 @@
 #include<iostream>
 
 void main{
-     cout << aeyong;
+     cout << "aeyong!";
 }
