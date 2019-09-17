@@ -1,3 +1,4 @@
+/*14717 ì•‰ì•˜ë‹¤: ì•‰ì•˜ë‹¤ ê²Œì„ ê·œì¹™ì— ë”°ë¼ í•´ë‹¹  ì´ê¸¸ í™•ë¥  êµ¬í•˜ê¸°*/
 #include <iostream>
 #include <stdio.h>
 
@@ -5,22 +6,22 @@ using namespace std;
 
 int main(){
 	int n1, n2;
-	int total = 153; //ÀüÃ¼ °æ¿ìÀÇ¼ö 
-	int numOfCase=0, digit; //°æ¿ìÀÇ ¼ö, ÇÕÀÇ ÀÏÀÇÀÚ¸® 
+	int total = 153; //ì „ì²´ ê²½ìš°ì˜ìˆ˜ 
+	int numOfCase=0, digit; //ê²½ìš°ì˜ ìˆ˜, í•©ì˜ ì¼ì˜ìë¦¬ 
 	
 	cin >> n1 >> n2;
 	
-	if(n1==n2){	//¶¯ÀÇ °æ¿ì 
+	if(n1==n2){	//ë•¡ì˜ ê²½ìš° 
 		numOfCase = 143+n1;
 	}
 	else{
-		digit = (n1+n2)%10; //ÇÕÀÇ ÀÏÀÇÀÚ¸® 
+		digit = (n1+n2)%10; //í•©ì˜ ì¼ì˜ìë¦¬ 
 		
 		for(int i=1;i<=10;i++){
 			for(int j=1;j<=10;j++){
 				if( (i<j) && ((i+j)%10 < digit)){	
 					
-					if(i==n1 || i==n2 || j==n1 || j==n2) //ÀÌ¹Ì »ÌÀº °Í°ú Áßº¹µÇ´Â °æ¿ì 
+					if(i==n1 || i==n2 || j==n1 || j==n2) //ì´ë¯¸ ë½‘ì€ ê²ƒê³¼ ì¤‘ë³µë˜ëŠ” ê²½ìš° 
 						numOfCase+=2;
 						
 					else
