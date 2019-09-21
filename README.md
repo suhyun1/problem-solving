@@ -12,5 +12,12 @@ boj| suhyun | hamin |
 
 boj| suhyun | hamin |
 -|-|-
-번호|[code] |[code] |
-번호|[code] |[code] |
+1918|[code] |[code] |
+2841|[code] |[code] |
+
+### week3 
+
+boj| suhyun | hamin |
+-|-|-
+2164|[code] |[code] |
+1966|[code] |[code] |
