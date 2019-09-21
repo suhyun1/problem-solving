@@ -12,5 +12,5 @@ boj| suhyun | hamin |
 
 boj| suhyun | hamin |
 -|-|-
-|[code] |[code] |
+번호|[code] |[code] |
 |[code] |[code] |
