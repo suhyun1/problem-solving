@@ -19,5 +19,5 @@ boj| suhyun | hamin |
 
 boj| suhyun | hamin |
 -|-|-
-2164|[code] |[code] |
-1966|[code] |[code] |
+[2164](https://www.acmicpc.net/problem/2164)|[code] |[code] |
+[1966](https://www.acmicpc.net/problem/1966)|[code] |[code] |
