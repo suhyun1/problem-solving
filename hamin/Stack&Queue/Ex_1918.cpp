@@ -14,13 +14,6 @@ int main() {
 	
     for(i = 0; i < strlen(s); ++i) {
         switch(s[i]) {
-        case '+': case '-':
-             while(!op.empty() && op.top() != '(' ) { 
-				 printf("%c", op.top()); 
-				 op.pop(); 
-			 }
-             op.push(s[i]);;
-             break;
         case '*': case '/':
             while(!op.empty() && op.top() != '+' && op.top() != '-' && op.top() != '(' ) { 
 				printf("%c", op.top()); 
@@ -28,6 +21,13 @@ int main() {
 			}
             op.push(s[i]);
             break;
+        case '+': case '-':
+             while(!op.empty() && op.top() != '(' ) { 
+				 printf("%c", op.top()); 
+				 op.pop(); 
+			 }
+             op.push(s[i]);;
+             break;
         case '(':
             op.push('('); 
             break;
