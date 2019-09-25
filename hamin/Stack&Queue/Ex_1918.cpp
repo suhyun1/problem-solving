@@ -23,9 +23,9 @@ int main() {
             break;
         case '+': case '-':
              while(!op.empty() && op.top() != '(' ) { 
-				 printf("%c", op.top()); 
-				 op.pop(); 
-			 }
+			printf("%c", op.top()); 
+			op.pop(); 
+		}
              op.push(s[i]);;
              break;
         case '(':
@@ -33,12 +33,12 @@ int main() {
             break;
         case ')':
             while(!op.empty() && op.top()!='(') { 
-				printf("%c",op.top()); 
-				op.pop();  
+		printf("%c",op.top()); 
+		op.pop();  
 			}
             if(op.top() == '(') 
-				op.pop();
-			break;
+		op.pop();
+		break;
 
          default:
              printf("%c",s[i]);
