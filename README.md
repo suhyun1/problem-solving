@@ -19,5 +19,5 @@ boj| suhyun | hamin |
 
 boj| suhyun | hamin |
 -|-|-
-[2164](https://www.acmicpc.net/problem/2164)|[code] |[code] |
+[2164](https://www.acmicpc.net/problem/2164)|[code] |[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Ex_2164.cpp) |
 [1966](https://www.acmicpc.net/problem/1966)|[code] |[code] |
