@@ -15,7 +15,7 @@ boj| suhyun | hamin |
 [1918 후위 표기식](https://www.acmicpc.net/problem/1918)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/Stack%26Queue/boj1918.cpp) |[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Ex_1918.cpp) |
 [2841 외계인의 기타연주](https://www.acmicpc.net/problem/2841)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/Stack%26Queue/boj2841.cpp) |[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Ex_2841.cpp) |
 [2164](https://www.acmicpc.net/problem/2164)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/Stack%26Queue/boj2164.cpp) |[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Ex_2164.cpp) |
-[1966](https://www.acmicpc.net/problem/1966)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/Stack%26Queue/boj1966.cpp) |[code] |
+[1966](https://www.acmicpc.net/problem/1966)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/Stack%26Queue/boj1966.cpp) |[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Ex_1966.cpp) |
 
 ### Part3: BFS, DFS
 boj| suhyun | hamin |
