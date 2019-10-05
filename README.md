@@ -20,5 +20,5 @@ boj| suhyun | hamin |
 ### Part3: BFS, DFS
 boj| suhyun | hamin |
 -|-|-
-[10026](https://www.acmicpc.net/problem/10026)||
+[10026] 적록색약(https://www.acmicpc.net/problem/10026)||
 [4179](https://www.acmicpc.net/problem/4179)||
