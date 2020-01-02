@@ -1,6 +1,6 @@
 # algorithm-study
 
-### Part1 : Greedy algorithm
+### Part1 : Greedy, Brute-Force
 
 boj| suhyun | hamin |
 -|-|-
