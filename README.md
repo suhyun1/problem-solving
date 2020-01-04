@@ -32,5 +32,5 @@ boj| suhyun | hamin |
 - (해시)마라톤 참여한 사람 배열과 완주한 사람 배열에서 완주하지 못한 1명 구하기 [suhyun](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/hash_01.cpp)
 
 - (해시) 완주하지 못한 선수 [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Hash/Poor_Runner.cpp)
-- (탐욕법)체육복 [code]
+- (탐욕법)체육복 [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Workout_Clothes.cpp)
 - (정렬) K번째 수 [code]
