@@ -1,6 +1,7 @@
-# algorithm-study
+# algorithm 문제풀이
 
-### Part1 : Greedy, Brute-Force
+## 백준
+### Greedy, Brute-Force
 
 boj| suhyun | hamin |
 -|-|-
@@ -8,7 +9,7 @@ boj| suhyun | hamin |
 [14717 앉았다](https://www.acmicpc.net/problem/14717)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/greedy/boj14717.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/greedy/Ex_14717.cpp) |
 [2875 대회 or 인턴](https://www.acmicpc.net/problem/2875)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/greedy/boj2875.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/greedy/Ex_2875.cpp) |
 
-### Part2 : Stack, Queue
+### Stack, Queue
 
 boj| suhyun | hamin |
 -|-|-
@@ -17,8 +18,16 @@ boj| suhyun | hamin |
 [2164 카드2](https://www.acmicpc.net/problem/2164)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/Stack%26Queue/boj2164.cpp) |[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Ex_2164.cpp) |
 [1966 프린터큐](https://www.acmicpc.net/problem/1966)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/Stack%26Queue/boj1966.cpp) |[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Ex_1966.cpp) |
 
-### Part3: BFS, DFS
+### BFS, DFS
 boj| suhyun | hamin |
 -|-|-
 [10026 적록색약](https://www.acmicpc.net/problem/10026)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/DFS%2C%20BFS/10026.cpp) |[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/BFS%20%26%26%20DFS/BOJ_10026.cpp) |
 [4179](https://www.acmicpc.net/problem/4179)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/DFS%2C%20BFS/4179.cpp)|
+[5247]|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/boj5247.cpp)|
+
+
+## 프로그래머스
+- (완전탐색)세 수포자의 찍는 방식이 각 존재할 때, 가장 많이 맞힌 사람 [suhyun]()
+- (정렬)배열을 자르고 정렬하였을 때 k번째 수 구하기 [suhyun]()
+- (해시)마라톤 참여한 사람 배열과 완주한 사람 배열에서 완주하지 못한 1명 구하기 [suhyun]()
+
