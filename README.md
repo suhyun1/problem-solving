@@ -31,12 +31,12 @@ boj| suhyun | hamin |
 ### 해시
 Programmers| suhyun | hamin
 -|-|-
-완주하지 못한 선수|[suhyun](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/hash_01.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Hash/Poor_Runner.cpp)
+완주하지 못한 선수 (마라톤 참여한 사람 배열과 완주한 사람 배열에서 완주하지 못한 1명 구하기)|[suhyun](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/hash_01.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Hash/Poor_Runner.cpp)
 
 ### 정렬
 Programmers| suhyun | hamin
 -|-|-
-k번째 수 | [suhyun](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/sort_01.cpp) | [code](https://github.com/suhyun1/algorithm-study/tree/master/hamin/Sort)
+k번째 수 (배열을 자르고 정렬하였을 때 k번째 수 구하기)| [suhyun](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/sort_01.cpp) | [code](https://github.com/suhyun1/algorithm-study/tree/master/hamin/Sort)
 
 ### 탐욕법
 Programmers| suhyun | hamin |
@@ -46,4 +46,4 @@ Programmers| suhyun | hamin |
 ### 완전탐색
 Programmers| suhyun | hamin |
 -|-|-
-모의고사(세 수포자의 찍는 방식이 각 존재할 때, 가장 많이 맞힌 사람) | [suhyun](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/exhaustive_search_01.cpp) |
+모의고사 (세 수포자의 찍는 방식이 각 존재할 때, 가장 많이 맞힌 사람) | [suhyun](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/exhaustive_search_01.cpp) |
