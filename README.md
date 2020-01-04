@@ -35,6 +35,7 @@ Programmers| suhyun | hamin
 
 ### 정렬
 Programmers| suhyun | hamin
+-|-|-
 k번째 수 | [suhyun](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/sort_01.cpp) | [code](https://github.com/suhyun1/algorithm-study/tree/master/hamin/Sort)
 
 ### 탐욕법
@@ -45,5 +46,4 @@ Programmers| suhyun | hamin |
 ### 완전탐색
 Programmers| suhyun | hamin |
 -|-|-
-모의고사
-세 수포자의 찍는 방식이 각 존재할 때, 가장 많이 맞힌 사람 | [suhyun](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/exhaustive_search_01.cpp) |
+모의고사(세 수포자의 찍는 방식이 각 존재할 때, 가장 많이 맞힌 사람) | [suhyun](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/exhaustive_search_01.cpp) |
