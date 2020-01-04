@@ -31,3 +31,5 @@ boj| suhyun | hamin |
 - (정렬)배열을 자르고 정렬하였을 때 k번째 수 구하기 [suhyun](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/sort_01.cpp)
 - (해시)마라톤 참여한 사람 배열과 완주한 사람 배열에서 완주하지 못한 1명 구하기 [suhyun](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/hash_01.cpp)
 
+- (해시) 완주하지 못한 선수 [hamin] 
+- (탐욕법)체육복 [hamin]
