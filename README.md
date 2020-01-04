@@ -41,7 +41,7 @@ k번째 수 | [suhyun](https://github.com/suhyun1/algorithm-study/blob/suhyun/su
 ### 탐욕법
 Programmers| suhyun | hamin |
 -|-|-
-체육복|-|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Workout_Clothes.cpp)
+체육복||[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Workout_Clothes.cpp)
 
 ### 완전탐색
 Programmers| suhyun | hamin |
