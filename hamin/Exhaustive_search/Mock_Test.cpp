@@ -26,7 +26,7 @@ vector<int> solution(vector<int> answers) {
     // max_score에 score 벡터 안에 있는 최댓값 삽입.
     int max_score = *max_element(score.begin(), score.end());
 
-    //
+    // 최고점수와 같은 수포자 answer에 넣기.
     for(int i=0; i<3; i++){
         if(score[i] == max_score)
             answer.push_back(i+1);
