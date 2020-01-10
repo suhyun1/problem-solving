@@ -13,14 +13,14 @@
 ~~~cpp
 void DFS(vector<int> numbers, int target, int sum, int index){
     if(index == numbers.size()){        // numbers에 들어있는 숫자 갯수 만큼만 더해야.
-        if(sum == target){
-            answer++;
+        if(sum == target){      // 더한 것이 타겟과 같다면
+            answer++;           // 만족하는거 하나 찾은거임
             return;
         }
         return;
     }
-    DFS(numbers, target, sum + numbers.at(index), index + 1);
-    DFS(numbers, target, sum - numbers.at(index), index + 1);
+    DFS(numbers, target, sum + numbers.at(index), index + 1);       // 트리에서 깊이(index) +1 후 다음 노드(배열의 요소) +하기
+    DFS(numbers, target, sum - numbers.at(index), index + 1);       // 트리에서 깊이(index) +1 후 다음 노드(배열의 요소) -하기
 }
 ~~~
 

@@ -57,4 +57,4 @@ Programmers| suhyun | hamin |
 ### 깊이/너비 우선 탐색 (DFS/BFS)
 Programmers| suhyun | hamin |
 -|-|-
-타겟 넘버 <br> (사용할 수들이 담긴 배열을 이용하여 타겟 넘버를 만드는 가짓수 구하기)| [code] | [code]
+타겟 넘버 <br> (사용할 수들이 담긴 배열을 이용하여 타겟 넘버를 만드는 가짓수 구하기)| [code] | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/BFS%20%26%26%20DFS/Target_Number.md)
