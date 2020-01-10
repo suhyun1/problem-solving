@@ -31,19 +31,32 @@ boj| suhyun | hamin |
 ### 해시
 Programmers| suhyun | hamin
 -|-|-
-완주하지 못한 선수 <br>(마라톤 참여한 사람 배열과 완주한 사람 배열에서 완주하지 못한 1명 구하기)|[suhyun](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/hash_01.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Hash/Poor_Runner.cpp)
+완주하지 못한 선수 <br>(마라톤 참여한 사람 배열과 완주한 사람 배열에서 완주하지 못한 1명 구하기)|[code](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/hash_01.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Hash/Poor_Runner.cpp)
+전화번호부 <br> (앞 번호가 같은것이 있는지 찾아내기) | [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/hash_phonebook.cpp) |[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Hash/Phone_book.cpp)
 
 ### 정렬
 Programmers| suhyun | hamin
 -|-|-
-k번째 수 <br>(배열을 자르고 정렬하였을 때 k번째 수 구하기)| [suhyun](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/sort_01.cpp) | [code](https://github.com/suhyun1/algorithm-study/tree/master/hamin/Sort)
+k번째 수 <br>(배열을 자르고 정렬하였을 때 k번째 수 구하기)| [code](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/sort_01.cpp) | [code](https://github.com/suhyun1/algorithm-study/tree/master/hamin/Sort)
 
 ### 탐욕법
 Programmers| suhyun | hamin |
 -|-|-
-체육복||[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Workout_Clothes.cpp)
+체육복 <br> (자꾸만 도난당하는 체육복)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/greedy_sportswear.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Workout_Clothes.cpp)
 
 ### 완전탐색
 Programmers| suhyun | hamin |
 -|-|-
-모의고사 <br>(세 수포자의 찍는 방식이 각 존재할 때, 가장 많이 맞힌 사람) | [suhyun](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/exhaustive_search_01.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Exhaustive_search/Mock_Test.cpp)
+모의고사 <br>(세 수포자의 찍는 방식이 각 존재할 때, 가장 많이 맞힌 사람) | [code](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/exhaustive_search_01.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Exhaustive_search/Mock_Test.cpp)
+숫자야구 <br> (2명이 서로가 생각한 숫자를 맞추는 게임) | [code] | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Exhaustive_search/Number_Baseball.md)
+
+
+### 스택/큐
+Programmers| suhyun | hamin |
+-|-|-
+타워 <br> (낮은탑에서 높은탑으로 신호 송신하기)| [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/stack_tower.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Tower.cpp)
+
+### 깊이/너비 우선 탐색 (DFS/BFS)
+Programmers| suhyun | hamin |
+-|-|-
+타겟 넘버 <br> (사용할 수들이 담긴 배열을 이용하여 타겟 넘버를 만드는 가짓수 구하기)| [code] | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/BFS%20%26%26%20DFS/Target_Number.md)
