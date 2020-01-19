@@ -44,7 +44,7 @@ Programmers| suhyun | hamin |
 ### 힙
 Programmers| suhyun | hamin |
 -|-|-
-더 맵게<br/>|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/heap_scoville.cpp)|[code]()
+더 맵게<br/>|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/heap_scoville.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Heap/Scoville.cpp)
 
 
 ### 정렬
