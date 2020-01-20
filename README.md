@@ -57,7 +57,7 @@ k번째 수 <br>(배열을 자르고 정렬하였을 때 k번째 수 구하기)|
 Programmers| suhyun | hamin |
 -|-|-
 체육복 <br> (자꾸만 도난당하는 체육복)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/greedy_sportswear.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Workout_Clothes.cpp)
-큰 수 만들기<br/>(어떤 수에서 1자리 수 몇개 제거하여 만들 수 있는 가장 큰 수) |[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/greedy_makeBiggestNumber.cpp)|
+큰 수 만들기<br/>(어떤 수에서 1자리 수 몇개 제거하여 만들 수 있는 가장 큰 수) |[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/greedy_makeBiggestNumber.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Making_Big_Number.cpp)
 
 
 ### 완전탐색
