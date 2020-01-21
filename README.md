@@ -38,13 +38,13 @@ Programmers| suhyun | hamin
 Programmers| suhyun | hamin |
 -|-|-
 타워 <br> (낮은탑에서 높은탑으로 신호 송신하기)| [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/stack_tower.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Tower.cpp)
-기능개발 <br/> | [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/queue_deploymentRule.cpp)|[code]()
+기능개발 <br/> | [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/queue_deploymentRule.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/FunctionDevelopment.cpp)
 프린터<br/>(중요도 순으로 인쇄할 때, 내가 요청한 문서의 순서) |[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/queue_print_priority.cpp)|
 
 ### 힙
 Programmers| suhyun | hamin |
 -|-|-
-더 맵게<br/>|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/heap_scoville.cpp)|[code]()
+더 맵게<br/>|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/heap_scoville.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Heap/Scoville.cpp)
 
 
 ### 정렬
@@ -57,7 +57,7 @@ k번째 수 <br>(배열을 자르고 정렬하였을 때 k번째 수 구하기)|
 Programmers| suhyun | hamin |
 -|-|-
 체육복 <br> (자꾸만 도난당하는 체육복)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/greedy_sportswear.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Workout_Clothes.cpp)
-큰 수 만들기<br/>(어떤 수에서 1자리 수 몇개 제거하여 만들 수 있는 가장 큰 수) |[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/greedy_makeBiggestNumber.cpp)|
+큰 수 만들기<br/>(어떤 수에서 1자리 수 몇개 제거하여 만들 수 있는 가장 큰 수) |[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/greedy_makeBiggestNumber.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Making_Big_Number.cpp)
 
 
 ### 완전탐색
