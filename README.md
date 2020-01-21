@@ -40,11 +40,13 @@ Programmers| suhyun | hamin |
 타워 <br> (낮은탑에서 높은탑으로 신호 송신하기)| [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/stack_tower.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Tower.cpp)
 기능개발 <br/> | [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/queue_deploymentRule.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/FunctionDevelopment.cpp)
 프린터<br/>(중요도 순으로 인쇄할 때, 내가 요청한 문서의 순서) |[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/queue_print_priority.cpp)|
+쇠막대기<br>|[code]()|[code]()|
 
 ### 힙
 Programmers| suhyun | hamin |
 -|-|-
-더 맵게<br/>|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/heap_scoville.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Heap/Scoville.cpp)
+더 맵게<br/>|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/heap_scoville.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Heap/Scoville.cpp)|
+라면공장<br>|[code]()|[code]()
 
 
 ### 정렬
@@ -58,6 +60,7 @@ Programmers| suhyun | hamin |
 -|-|-
 체육복 <br> (자꾸만 도난당하는 체육복)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/greedy_sportswear.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Workout_Clothes.cpp)
 큰 수 만들기<br/>(어떤 수에서 1자리 수 몇개 제거하여 만들 수 있는 가장 큰 수) |[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/greedy_makeBiggestNumber.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Making_Big_Number.cpp)
+구명보트<br>|[code]()|[code]()
 
 
 ### 완전탐색
@@ -65,9 +68,16 @@ Programmers| suhyun | hamin |
 -|-|-
 모의고사 <br>(세 수포자의 찍는 방식이 각 존재할 때, 가장 많이 맞힌 사람) | [code](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/exhaustive_search_01.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Exhaustive_search/Mock_Test.cpp)
 숫자야구 <br> (2명이 서로가 생각한 숫자를 맞추는 게임) | [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/exhaustive_search_numberBaseball.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Exhaustive_search/Number_Baseball.md)
-
+카펫<br>|[code]()|[code]()
 
 ### 깊이/너비 우선 탐색 (DFS/BFS)
 Programmers| suhyun | hamin |
 -|-|-
 타겟 넘버 <br> (사용할 수들이 담긴 배열을 이용하여 타겟 넘버를 만드는 가짓수 구하기)| [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/dfs_targetnumber.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/BFS%20%26%26%20DFS/Target_Number.md)
+네트워크 <br> |[code]()|[code]()|
+
+
+### 동적계획법 (Dynamic Programming)
+Programmers| suhyun | hamin |
+-|-|-
+등굣길 <br> |[code]()|[code]()
