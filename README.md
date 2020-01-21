@@ -51,7 +51,7 @@ Programmers| suhyun | hamin |
 Programmers| suhyun | hamin
 -|-|-
 k번째 수 <br>(배열을 자르고 정렬하였을 때 k번째 수 구하기)| [code](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/sort_01.cpp) | [code](https://github.com/suhyun1/algorithm-study/tree/master/hamin/Sort)
-가장 큰 수 <br/>(배열의 원소 이어붙여 만들 수 있는 가장 큰 수) | [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/sort_biggest_number.cpp) |
+가장 큰 수 <br/>(배열의 원소 이어붙여 만들 수 있는 가장 큰 수) | [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/sort_biggest_number.cpp) |[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Sort/Biggest_Number.cpp)
 
 ### 탐욕법
 Programmers| suhyun | hamin |
