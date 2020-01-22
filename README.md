@@ -40,13 +40,13 @@ Programmers| suhyun | hamin |
 타워 <br> (낮은탑에서 높은탑으로 신호 송신하기)| [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/stack_tower.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Tower.cpp)
 기능개발 <br/> | [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/queue_deploymentRule.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/FunctionDevelopment.cpp)
 프린터<br/>(중요도 순으로 인쇄할 때, 내가 요청한 문서의 순서) |[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/queue_print_priority.cpp)|
-쇠막대기<br>|[code]()|[code]()|
+쇠막대기<br>|[code](suhyun/stack_iron_rod.cpp)|[code]()|
 
 ### 힙
 Programmers| suhyun | hamin |
 -|-|-
 더 맵게<br/>|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/heap_scoville.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Heap/Scoville.cpp)|
-라면공장<br>|[code]()|[code]()
+라면공장<br>|[code](suhyun/heap_ramen_factory.cpp)|[code]()
 
 
 ### 정렬
@@ -54,13 +54,15 @@ Programmers| suhyun | hamin
 -|-|-
 k번째 수 <br>(배열을 자르고 정렬하였을 때 k번째 수 구하기)| [code](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/sort_01.cpp) | [code](https://github.com/suhyun1/algorithm-study/tree/master/hamin/Sort)
 가장 큰 수 <br/>(배열의 원소 이어붙여 만들 수 있는 가장 큰 수) | [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/sort_biggest_number.cpp) |[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Sort/Biggest_Number.cpp)
+H-index<br/>(논문의 인용횟수 주어졌을 때, H-index 찾기)  |[code](suhyun/sort_H_index.cpp)|
+
 
 ### 탐욕법
 Programmers| suhyun | hamin |
 -|-|-
 체육복 <br> (자꾸만 도난당하는 체육복)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/greedy_sportswear.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Workout_Clothes.cpp)
 큰 수 만들기<br/>(어떤 수에서 1자리 수 몇개 제거하여 만들 수 있는 가장 큰 수) |[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/greedy_makeBiggestNumber.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Making_Big_Number.cpp)
-구명보트<br>|[code]()|[code]()
+구명보트<br>|[code](suhyun/greedy_lifeboat.cpp)|[code]()
 
 
 ### 완전탐색
@@ -74,10 +76,10 @@ Programmers| suhyun | hamin |
 Programmers| suhyun | hamin |
 -|-|-
 타겟 넘버 <br> (사용할 수들이 담긴 배열을 이용하여 타겟 넘버를 만드는 가짓수 구하기)| [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/dfs_targetnumber.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/BFS%20%26%26%20DFS/Target_Number.md)
-네트워크 <br> |[code]()|[code]()|
+네트워크<br>(컴퓨터 개수와 연결에 대한 정보가 주어질 때, 네트워크 개수 구하기) |[code](suhyun/dfs_network.cpp)|[code]()|
 
 
 ### 동적계획법 (Dynamic Programming)
 Programmers| suhyun | hamin |
 -|-|-
-등굣길 <br> |[code]()|[code]()
+등굣길 <br> |[code](suhyun/DP_path_to_school.cpp)|[code]()
