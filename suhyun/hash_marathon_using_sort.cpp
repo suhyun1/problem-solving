@@ -1,6 +1,5 @@
 #include <string>
 #include <vector>
-#include <iostream>
 #include <algorithm>
 
 using namespace std;
@@ -15,8 +14,6 @@ string solution(vector<string> participant, vector<string> completion) {
     for(int i=0; i<participant.size();i++){
         if(participant[i]!=completion[i]){
             answer = participant[i];
-            if(i==participant.size()-1)
-                cout << completion[i] <<"dd";
             break;
         }        
         
