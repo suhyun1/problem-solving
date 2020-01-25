@@ -40,12 +40,12 @@ Programmers| suhyun | hamin |
 타워 <br> (낮은탑에서 높은탑으로 신호 송신하기)| [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/stack_tower.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Tower.cpp)
 기능개발 <br/> | [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/queue_deploymentRule.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/FunctionDevelopment.cpp)
 프린터<br/>(중요도 순으로 인쇄할 때, 내가 요청한 문서의 순서) |[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/queue_print_priority.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Printer.cpp)
-쇠막대기<br>|[code](suhyun/stack_iron_rod.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Iron_Stick.cpp)|
+쇠막대기<br>(레이저로 쇠막대기 자른 후 갯수 세기)|[code](suhyun/stack_iron_rod.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Iron_Stick.cpp)|
 
 ### 힙
 Programmers| suhyun | hamin |
 -|-|-
-더 맵게<br/>|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/heap_scoville.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Heap/Scoville.cpp)|
+더 맵게<br/>(음식을 섞어서 스코빌 지수 맞추기)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/heap_scoville.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Heap/Scoville.cpp)|
 라면공장<br>|[code](suhyun/heap_ramen_factory.cpp)|[code]()
 
 
