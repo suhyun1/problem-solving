@@ -62,7 +62,7 @@ Programmers| suhyun | hamin |
 -|-|-
 체육복 <br> (자꾸만 도난당하는 체육복)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/greedy_sportswear.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Workout_Clothes.cpp)
 큰 수 만들기<br/>(어떤 수에서 1자리 수 몇개 제거하여 만들 수 있는 가장 큰 수) |[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/greedy_makeBiggestNumber.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Making_Big_Number.cpp)
-구명보트<br>|[code](suhyun/greedy_lifeboat.cpp)|[code]()
+구명보트<br>무게 제한이 있는 보트로 모든 사람 운송하기|[code](suhyun/greedy_lifeboat.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Rescue_Boat.cpp)
 
 
 ### 완전탐색
