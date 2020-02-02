@@ -48,7 +48,7 @@ Programmers| suhyun | hamin |
 Programmers| suhyun | hamin |
 -|-|-
 더 맵게<br/>(음식을 섞어서 스코빌 지수 맞추기)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/heap_scoville.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Heap/Scoville.cpp)|
-라면공장<br>|[code](suhyun/heap_ramen_factory.cpp)|[code](https://github.com/suhyun1/algorithm-study/tree/master/hamin/Heap)
+라면공장<br>(하루에 1톤씩 밀가루를 필요로 하는 라면 공장에서 최소 몇 일 밀가루를 공급받아야 할까)|[code](suhyun/heap_ramen_factory.cpp)|[code](https://github.com/suhyun1/algorithm-study/tree/master/hamin/Heap)
 
 
 ### 정렬
