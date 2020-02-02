@@ -56,7 +56,7 @@ Programmers| suhyun | hamin
 -|-|-
 k번째 수 <br>(배열을 자르고 정렬하였을 때 k번째 수 구하기)| [code](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/sort_01.cpp) | [code](https://github.com/suhyun1/algorithm-study/tree/master/hamin/Sort)
 가장 큰 수 <br/>(배열의 원소 이어붙여 만들 수 있는 가장 큰 수) | [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/sort_biggest_number.cpp) |[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Sort/Biggest_Number.cpp)
-H-index<br/>(논문의 인용횟수 주어졌을 때, H-index 찾기)  |[code](suhyun/sort_H_index.cpp)|
+H-index<br/>(논문의 인용횟수 주어졌을 때, H-index 찾기)  |[code](suhyun/sort_H_index.cpp)|[code](https://github.com/hamin7/Today_I_Learned/blob/master/코딩%20테스트/Sort/h-index.cpp)
 
 
 ### 탐욕법
