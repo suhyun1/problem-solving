@@ -40,7 +40,7 @@ Programmers| suhyun | hamin
 Programmers| suhyun | hamin |
 -|-|-
 타워 <br> (낮은탑에서 높은탑으로 신호 송신하기)| [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/stack_tower.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Tower.cpp)
-다리를 지나는 트럭 | [code](suhyun/queue_truckOnBridge.cpp) | 
+다리를 지나는 트럭 | [code](suhyun/queue_truckOnBridge.cpp) | [code](hamin/Stack%26Queue/trucksPassingByBridge.cpp)
 기능개발 <br/> (기능 별 개발 속도에 따른 시점 별 배포 가능 가짓 수)| [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/queue_deploymentRule.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/FunctionDevelopment.cpp)
 프린터<br/>(중요도 순으로 인쇄할 때, 내가 요청한 문서의 순서) |[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/queue_print_priority.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Printer.cpp)
 쇠막대기<br>(레이저로 쇠막대기 자른 후 갯수 세기)|[code](suhyun/stack_iron_rod.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Iron_Stick.cpp)|
