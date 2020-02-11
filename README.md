@@ -74,7 +74,7 @@ Programmers| suhyun | hamin |
 -|-|-
 모의고사 <br>(세 수포자의 찍는 방식이 각 존재할 때, 가장 많이 맞힌 사람) | [code](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/exhaustive_search_01.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Exhaustive_search/Mock_Test.cpp)
 숫자야구 <br> (2명이 서로가 생각한 숫자를 맞추는 게임) | [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/exhaustive_search_numberBaseball.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Exhaustive_search/Number_Baseball.md)
-카펫<br>|[code](suhyun/exhaustive_search_carpet.cpp)|[code]()
+카펫<br>|[code](suhyun/exhaustive_search_carpet.cpp)|[code]
 소수찾기 | [code](suhyun/exhaustive_search_findPrimeNumber.cpp) | 
 
 ### 깊이/너비 우선 탐색 (DFS/BFS)
