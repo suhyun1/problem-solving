@@ -33,22 +33,24 @@ Programmers| suhyun | hamin
 -|-|-
 완주하지 못한 선수 <br>(마라톤 참여한 사람 배열과 완주한 사람 배열에서 완주하지 못한 1명 구하기)|[code(map)](suhyun/hash_marathon.cpp)<br/>[code(정렬)](suhyun/hash_marathon_using_sort.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Hash/Poor_Runner.cpp)
 전화번호부 <br> (앞 번호가 같은것이 있는지 찾아내기) | [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/hash_phonebook.cpp) |[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Hash/Phone_book.cpp)
-위장 | [code](suhyun/hash_clothes.cpp)]|
+위장 | [code](suhyun/hash_clothes.cpp)] |
 
 
 ### 스택/큐
 Programmers| suhyun | hamin |
 -|-|-
 타워 <br> (낮은탑에서 높은탑으로 신호 송신하기)| [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/stack_tower.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Tower.cpp)
+다리를 지나는 트럭 | [code](suhyun/queue_truckOnBridge.cpp) | 
 기능개발 <br/> (기능 별 개발 속도에 따른 시점 별 배포 가능 가짓 수)| [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/queue_deploymentRule.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/FunctionDevelopment.cpp)
 프린터<br/>(중요도 순으로 인쇄할 때, 내가 요청한 문서의 순서) |[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/queue_print_priority.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Printer.cpp)
 쇠막대기<br>(레이저로 쇠막대기 자른 후 갯수 세기)|[code](suhyun/stack_iron_rod.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Iron_Stick.cpp)|
+주식가격 | [code(스택)](suhyun/stack_stockPrice.cpp)  <br/> [code(이중for문)](suhyun/stack_stockPrice_2ndSolution.cpp)  |
 
 ### 힙
 Programmers| suhyun | hamin |
 -|-|-
 더 맵게<br/>(음식을 섞어서 스코빌 지수 맞추기)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/heap_scoville.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Heap/Scoville.cpp)|
-라면공장<br>|[code](suhyun/heap_ramen_factory.cpp)|[code]()
+라면공장<br>(하루에 1톤씩 밀가루를 필요로 하는 라면 공장에서 최소 몇 일 밀가루를 공급받아야 할까)|[code](suhyun/heap_ramen_factory.cpp)|[code](https://github.com/suhyun1/algorithm-study/tree/master/hamin/Heap)
 
 
 ### 정렬
@@ -72,7 +74,8 @@ Programmers| suhyun | hamin |
 -|-|-
 모의고사 <br>(세 수포자의 찍는 방식이 각 존재할 때, 가장 많이 맞힌 사람) | [code](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/exhaustive_search_01.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Exhaustive_search/Mock_Test.cpp)
 숫자야구 <br> (2명이 서로가 생각한 숫자를 맞추는 게임) | [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/exhaustive_search_numberBaseball.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Exhaustive_search/Number_Baseball.md)
-카펫<br>|[code]()|[code]()
+카펫<br>|[code](suhyun/exhaustive_search_carpet.cpp)|[code]()
+소수찾기 | [code](suhyun/exhaustive_search_findPrimeNumber.cpp) | 
 
 ### 깊이/너비 우선 탐색 (DFS/BFS)
 Programmers| suhyun | hamin |
@@ -85,3 +88,10 @@ Programmers| suhyun | hamin |
 Programmers| suhyun | hamin |
 -|-|-
 등굣길 <br> |[code](suhyun/DP_path_to_school.cpp)|[code]()
+타일장식물 <br/> | [code](suhyun/DP_tiles.cpp) | [code]
+
+
+### 이진 탐색
+Programmers| suhyun | hamin |
+-|-|-
+예산 | [code](binarySearch_budget.cpp) | 
