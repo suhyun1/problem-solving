@@ -34,7 +34,7 @@ Programmers| suhyun | hamin
 완주하지 못한 선수 <br>(마라톤 참여한 사람 배열과 완주한 사람 배열에서 완주하지 못한 1명 구하기)|[code(map)](suhyun/hash_marathon.cpp)<br/>[code(정렬)](suhyun/hash_marathon_using_sort.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Hash/Poor_Runner.cpp)
 전화번호부 <br> (앞 번호가 같은것이 있는지 찾아내기) | [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/hash_phonebook.cpp) |[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Hash/Phone_book.cpp)
 위장 | [code](suhyun/hash_clothes.cpp) |
-
+베스트앨범 | [code](suhyun/hash_bestAlbum.cpp) | 
 
 ### 스택/큐
 Programmers| suhyun | hamin |
@@ -51,7 +51,7 @@ Programmers| suhyun | hamin |
 -|-|-
 더 맵게<br/>(음식을 섞어서 스코빌 지수 맞추기)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/heap_scoville.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Heap/Scoville.cpp)|
 라면공장<br>(하루에 1톤씩 밀가루를 필요로 하는 라면 공장에서 최소 몇 일 밀가루를 공급받아야 할까)|[code](suhyun/heap_ramen_factory.cpp)|[code](https://github.com/suhyun1/algorithm-study/tree/master/hamin/Heap)
-
+이중우선순위큐 | [code](suhyun/heap_doublePrioirtyQueue.cpp)
 
 ### 정렬
 Programmers| suhyun | hamin
@@ -82,16 +82,18 @@ Programmers| suhyun | hamin |
 -|-|-
 타겟 넘버 <br> (사용할 수들이 담긴 배열을 이용하여 타겟 넘버를 만드는 가짓수 구하기)| [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/dfs_targetnumber.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/BFS%20%26%26%20DFS/Target_Number.md)
 네트워크<br>(컴퓨터 개수와 연결에 대한 정보가 주어질 때, 네트워크 개수 구하기) |[code](suhyun/dfs_network.cpp)|[code]|
-
+단어변환 | [code](suhyun/dfs_wordConversion.cpp) | 
+여행경로 | [code](suhyun/dfs_travelRoute.cpp) | 
 
 ### 동적계획법 (Dynamic Programming)
 Programmers| suhyun | hamin |
 -|-|-
 등굣길 <br> |[code](suhyun/DP_path_to_school.cpp)|[code]
 타일장식물 <br/> | [code](suhyun/DP_tiles.cpp) | [code]
-
+정수삼각형 |[code](suhyun/DP_triangle.cpp)|
 
 ### 이진 탐색
 Programmers| suhyun | hamin |
 -|-|-
-예산 | [code](binarySearch_budget.cpp) | 
+예산 | [code](suhyun/binarySearch_budget.cpp) | 
+입국심사 | [code](suhyun/binarySearch_entranceTest.cpp) | 
