@@ -81,13 +81,13 @@ Programmers| suhyun | hamin |
 Programmers| suhyun | hamin |
 -|-|-
 타겟 넘버 <br> (사용할 수들이 담긴 배열을 이용하여 타겟 넘버를 만드는 가짓수 구하기)| [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/dfs_targetnumber.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/BFS%20%26%26%20DFS/Target_Number.md)
-네트워크<br>(컴퓨터 개수와 연결에 대한 정보가 주어질 때, 네트워크 개수 구하기) |[code](suhyun/dfs_network.cpp)|[code]()|
+네트워크<br>(컴퓨터 개수와 연결에 대한 정보가 주어질 때, 네트워크 개수 구하기) |[code](suhyun/dfs_network.cpp)|[code]|
 
 
 ### 동적계획법 (Dynamic Programming)
 Programmers| suhyun | hamin |
 -|-|-
-등굣길 <br> |[code](suhyun/DP_path_to_school.cpp)|[code]()
+등굣길 <br> |[code](suhyun/DP_path_to_school.cpp)|[code]
 타일장식물 <br/> | [code](suhyun/DP_tiles.cpp) | [code]
 
 
