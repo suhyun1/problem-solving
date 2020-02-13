@@ -74,22 +74,22 @@ Programmers| suhyun | hamin |
 -|-|-
 모의고사 <br>(세 수포자의 찍는 방식이 각 존재할 때, 가장 많이 맞힌 사람) | [code](https://github.com/suhyun1/algorithm-study/blob/suhyun/suhyun/exhaustive_search_01.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Exhaustive_search/Mock_Test.cpp)
 숫자야구 <br> (2명이 서로가 생각한 숫자를 맞추는 게임) | [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/exhaustive_search_numberBaseball.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Exhaustive_search/Number_Baseball.md)
-카펫<br>|[code](suhyun/exhaustive_search_carpet.cpp)|[code]
+카펫<br>|[code](suhyun/exhaustive_search_carpet.cpp)|
 소수찾기 | [code](suhyun/exhaustive_search_findPrimeNumber.cpp) | 
 
 ### 깊이/너비 우선 탐색 (DFS/BFS)
 Programmers| suhyun | hamin |
 -|-|-
 타겟 넘버 <br> (사용할 수들이 담긴 배열을 이용하여 타겟 넘버를 만드는 가짓수 구하기)| [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/dfs_targetnumber.cpp) | [code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/BFS%20%26%26%20DFS/Target_Number.md)
-네트워크<br>(컴퓨터 개수와 연결에 대한 정보가 주어질 때, 네트워크 개수 구하기) |[code](suhyun/dfs_network.cpp)|[code]|
+네트워크<br>(컴퓨터 개수와 연결에 대한 정보가 주어질 때, 네트워크 개수 구하기) |[code](suhyun/dfs_network.cpp)||
 단어변환 | [code](suhyun/dfs_wordConversion.cpp) | 
 여행경로 | [code](suhyun/dfs_travelRoute.cpp) | 
 
 ### 동적계획법 (Dynamic Programming)
 Programmers| suhyun | hamin |
 -|-|-
-등굣길 <br> |[code](suhyun/DP_path_to_school.cpp)|[code]
-타일장식물 <br/> | [code](suhyun/DP_tiles.cpp) | [code]
+등굣길 <br> |[code](suhyun/DP_path_to_school.cpp)|
+타일장식물 <br/> | [code](suhyun/DP_tiles.cpp) | 
 정수삼각형 |[code](suhyun/DP_triangle.cpp)|
 
 ### 이진 탐색
