@@ -88,7 +88,7 @@ Programmers| suhyun | hamin |
 ### 동적계획법 (Dynamic Programming)
 Programmers| suhyun | hamin |
 -|-|-
-등굣길 <br> |[code](suhyun/DP_path_to_school.cpp)|
+등굣길 <br> |[code](suhyun/DP_path_to_school.cpp)|[code](hamin/DynamicProgramming/roadToSchool.cpp)
 타일장식물 <br/> | [code](suhyun/DP_tiles.cpp) | 
 정수삼각형 |[code](suhyun/DP_triangle.cpp)|
 
