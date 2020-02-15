@@ -1,28 +1,55 @@
+#include <string>
 #include <vector>
-#include <queue>
+#include <iostream>
+
+#define MAX 101
 
 using namespace std;
 
-int solution(vector<int> scoville, int K) {
-    int answer = 0;
+int route[MAX][MAX] = {0, };  // 경로 수를 저장.
+int pond[MAX][MAX] = {0, };   // 웅덩이 위치 저장.
 
-    priority_queue<int, vector<int>, greater<int>> PQ;  // 오름차순 우선순위 큐.
+int solution(int m, int n, vector<vector<int>> puddles) {
+    int answer;
 
-    for (int i = 0;i < scoville.size();i++)
-        PQ.push(scoville[i]);   // 우선순위 큐에 다 넣자.
-
-    while (PQ.top() < K) {  // scoville 지수가 K 보다 작은 것이 있는 경우.
-        if (PQ.size() <= 1) {   // 한개 밖에 없으면 스코빌 지수 K 이상으로 못 만듬.
-            answer = -1;
-            break;
-        }
-
-        int newVal = PQ.top();  // 젤 작은거가 newVal.
-        PQ.pop();
-        newVal += PQ.top() * 2; // 두 번째 작은거 *2 해서 더한다.
-        PQ.pop();
-        PQ.push(newVal);    // 믹스 된 스코빌 지수 푸시.
-        answer++;
+    // pond가 나오면 1로 초기화.
+    for (int i = 0; i < puddles.size(); i++) {
+        pond[puddles[i][1]-1][puddles[i][0]-1] = 1;
     }
+
+    // 집에서 경로 1로 출발.
+    route[0][0] = 1;
+
+    // 배열 순회.
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < m; j++) {
+            // 첫 출발지면 continue
+            if (i == 0 && j == 0){
+                continue;
+            }
+
+            // pond가 나오면 경로 0개.
+            if (pond[i][j] == 1) {
+                route[i][j] = 0;
+            } else {
+                // 윗쪽 가장자리일 경우 바로 왼쪽 경로 받아오기.
+                if(i == 0) {
+                    route[i][j] = route[i][j-1];
+                }
+
+                // 왼쪽 가장자리일 경우 바로 윗 경로 받아오기.
+                else if(j == 0) {
+                    route[i][j] = route[i-1][j];
+                }
+
+                // 가운데 부분일 경우 윗, 왼쪽 경로 합해서 나머지 구하기.
+                else {
+                    route[i][j] = (route[i-1][j] + route[i][j-1]) % 1000000007;
+                }
+            }
+        }
+    }
+    answer = route[n-1][m-1];
+
     return answer;
 }
