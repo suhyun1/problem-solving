@@ -3,7 +3,7 @@
 
 using namespace std;
 
-bool connected[200];    // 연결된 컴퓨터는 true값을 가짐.
+bool connected[200];    // 각각의 컴퓨터가 연결 되었는지 아닌지 나타내는 배열.
 
 void dfs(int n, int i, vector<vector<int>> &computers) {
     connected[i] = true;
@@ -21,23 +21,23 @@ int solution(int n, vector<vector<int>> computers) {
     int notConnected = 0;
     
     // 배열 초기화
-    for (int t = 0; t < n; t++)
-        connected[t] = false;
+    for (int i = 0; i < n; i++)
+        connected[i] = false;
     
     for (int i = 0; i < n; i++) {
+        // 다 할 필요 없이 i+1 ~ n-1까지.
         for (int j = i + 1; j < n; j++) {
             // 연결되어 있다면.
             if (computers[i][j] == 1) {
-                computers[i][j] == 0;
-                connected[i] = true;
+                connected[i] = true;    // 연결 되어있음 표시.
                 network++;
-                dfs(n, j, computers);
+                dfs(n, j, computers);   // j와 연결된 것들은 같은 네트워크이기 때문에 dfs로 computers[i][j] = 0으로 바꿔줌.
             }
         }
     }
     // 연결되지 않은 컴퓨터 개수 확인.
-    for (int k = 0; k < n; k++){
-        if (connected[k] == false)
+    for (int i = 0; i < n; i++){
+        if (connected[i] == false)
             notConnected++;
     }
     return network + notConnected;
