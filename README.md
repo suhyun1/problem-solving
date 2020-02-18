@@ -82,7 +82,7 @@ Programmers| suhyun | hamin |
 -|-|-
 타겟 넘버 <br> (사용할 수들이 담긴 배열을 이용하여 타겟 넘버를 만드는 가짓수 구하기)| [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/dfs_targetnumber.cpp) | [code](hamin/BFS%20%26%26%20DFS/Target_Number.md)
 네트워크<br>(컴퓨터 개수와 연결에 대한 정보가 주어질 때, 네트워크 개수 구하기) |[code](suhyun/dfs_network.cpp)|[code](hamin/BFS%20&&%20DFS/network.cpp)
-단어변환 | [code](suhyun/dfs_wordConversion.cpp) | 
+단어변환<br>(주어진 규칙에 따라 단어를 변환하는 최소 횟수 구하기) | [code](suhyun/dfs_wordConversion.cpp) | [code](hamin/BFS%20&&%20DFS/wordConversion.cpp)
 여행경로 | [code](suhyun/dfs_travelRoute.cpp) | 
 
 ### 동적계획법 (Dynamic Programming)
