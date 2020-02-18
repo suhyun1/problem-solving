@@ -51,7 +51,8 @@ Programmers| suhyun | hamin |
 -|-|-
 더 맵게<br/>(음식을 섞어서 스코빌 지수 맞추기)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/heap_scoville.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Heap/Scoville.cpp)|
 라면공장<br>(하루에 1톤씩 밀가루를 필요로 하는 라면 공장에서 최소 몇 일 밀가루를 공급받아야 할까)|[code](suhyun/heap_ramen_factory.cpp)|[code](https://github.com/suhyun1/algorithm-study/tree/master/hamin/Heap)
-이중우선순위큐 | [code](suhyun/heap_doublePrioirtyQueue.cpp)
+이중우선순위큐 | [code](suhyun/heap_doublePrioirtyQueue.cpp) | 
+디스크컨트롤러 | [code](suhyun/heap_diskController.cpp) | 
 
 ### 정렬
 Programmers| suhyun | hamin
@@ -67,6 +68,7 @@ Programmers| suhyun | hamin |
 체육복 <br> (자꾸만 도난당하는 체육복)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/greedy_sportswear.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Workout_Clothes.cpp)
 큰 수 만들기<br/>(어떤 수에서 1자리 수 몇개 제거하여 만들 수 있는 가장 큰 수) |[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/greedy_makeBiggestNumber.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Making_Big_Number.cpp)
 구명보트<br>(무게 제한이 있는 보트로 모든 사람 운송하기)|[code](suhyun/greedy_lifeboat.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Rescue_Boat.cpp)
+조이스틱 | [code](suhyun/greedy_joystick.cpp) | 
 
 
 ### 완전탐색
@@ -91,6 +93,8 @@ Programmers| suhyun | hamin |
 등굣길 <br> (웅덩이를 피해 집에서 학교까지 갈 수 있는 최단경로의 수 구하기)|[code](suhyun/DP_path_to_school.cpp)|[code](hamin/DynamicProgramming/roadToSchool.cpp)
 타일장식물 <br/> | [code](suhyun/DP_tiles.cpp) | 
 정수삼각형 |[code](suhyun/DP_triangle.cpp)|
+도둑질 | [code](suhyun/DP_theif.cpp) | 
+카드게임 | [code](suhyun/DP_cardGame_ver2.cpp) | 
 
 ### 이진 탐색
 Programmers| suhyun | hamin |
