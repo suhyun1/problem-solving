@@ -33,7 +33,7 @@ Programmers| suhyun | hamin
 -|-|-
 완주하지 못한 선수 <br>(마라톤 참여한 사람 배열과 완주한 사람 배열에서 완주하지 못한 1명 구하기)|[code(map)](suhyun/hash_marathon.cpp)<br/>[code(정렬)](suhyun/hash_marathon_using_sort.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Hash/Poor_Runner.cpp)
 전화번호부 <br> (앞 번호가 같은것이 있는지 찾아내기) | [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/hash_phonebook.cpp) |[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Hash/Phone_book.cpp)
-위장 | [code](suhyun/hash_clothes.cpp) |[code](hamin/Hash/camouflage.cpp)
+위장 <br> (메일 다른 옷을 입는 스파이의 패션 경우의 수 구하기)| [code](suhyun/hash_clothes.cpp) |[code](hamin/Hash/camouflage.cpp)
 베스트앨범 | [code](suhyun/hash_bestAlbum.cpp) | 
 
 ### 스택/큐
