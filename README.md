@@ -44,7 +44,7 @@ Programmers| suhyun | hamin |
 기능개발 <br/> (기능 별 개발 속도에 따른 시점 별 배포 가능 가짓 수)| [code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/queue_deploymentRule.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/FunctionDevelopment.cpp)
 프린터<br/>(중요도 순으로 인쇄할 때, 내가 요청한 문서의 순서) |[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/queue_print_priority.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Printer.cpp)
 쇠막대기<br>(레이저로 쇠막대기 자른 후 갯수 세기)|[code](suhyun/stack_iron_rod.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Stack%26Queue/Iron_Stick.cpp)|
-주식가격 | [code(스택)](suhyun/stack_stockPrice.cpp)  <br/> [code(이중for문)](suhyun/stack_stockPrice_2ndSolution.cpp)  | [code](hamin/Stack%26Queue/stockPrice.cpp)
+주식가격 <br>(초 단위로 기록된 주식 가격이 떨어지지 않은 기간 측정하기) | [code(스택)](suhyun/stack_stockPrice.cpp)  <br/> [code(이중for문)](suhyun/stack_stockPrice_2ndSolution.cpp)  | [code](hamin/Stack%26Queue/stockPrice.cpp)
 
 ### 힙
 Programmers| suhyun | hamin |
