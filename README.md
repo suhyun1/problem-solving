@@ -69,7 +69,9 @@ Programmers| suhyun | hamin |
 큰 수 만들기<br/>(어떤 수에서 1자리 수 몇개 제거하여 만들 수 있는 가장 큰 수) |[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/greedy_makeBiggestNumber.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Making_Big_Number.cpp)
 구명보트<br>(무게 제한이 있는 보트로 모든 사람 운송하기)|[code](suhyun/greedy_lifeboat.cpp)|[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/Greedy/Rescue_Boat.cpp)
 조이스틱 | [code](suhyun/greedy_joystick.cpp) | 
-
+섬 연결하기 | [code](suhyun/greedy_connectIslands.cpp) | 
+단속 카메라 | [code](suhyun/greedy_policeCamera.cpp) | 
+저울 | [code](suhyun/greedy_scale.cpp) | 
 
 ### 완전탐색
 Programmers| suhyun | hamin |
@@ -95,9 +97,22 @@ Programmers| suhyun | hamin |
 정수삼각형 |[code](suhyun/DP_triangle.cpp)|
 도둑질 | [code](suhyun/DP_theif.cpp) | 
 카드게임 | [code](suhyun/DP_cardGame_ver2.cpp) | 
+서울에서 경산까지 | [code](suhyun/DP_seoulToKyungsan.cpp) | 
 
 ### 이진 탐색
 Programmers| suhyun | hamin |
 -|-|-
 예산 | [code](suhyun/binarySearch_budget.cpp) | 
 입국심사 | [code](suhyun/binarySearch_entranceTest.cpp) | 
+
+
+### 그래프
+Programmers| suhyun | hamin |
+-|-|-
+가장 먼 노드 | [code](suhyun/graph_furthestNode.cpp) | 
+
+<br/>
+
+## SW Expert Academy
+- 1205 View [code](suhyun/SWEA1206_View.cpp)
+- 1244 최대상금 [code(dfs)](suhyun/SWEA1244_최대상금_dfs.cpp)
