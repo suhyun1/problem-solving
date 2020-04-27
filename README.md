@@ -114,5 +114,7 @@ Programmers| suhyun | hamin |
 <br/>
 
 ## SW Expert Academy
-- 1205 View [code](suhyun/SWEA1206_View.cpp)
-- 1244 최대상금 [code(dfs)](suhyun/SWEA1244_최대상금_dfs.cpp)
+SWEA | Suhyun👑 | Hamin
+-|-|-
+1206 View | [code](suhyun/SWEA1206_View.cpp) | [code](hamin/Array/SWEA_1206.cpp)
+1244 최대상금 | [code(dfs)](suhyun/SWEA1244_최대상금_dfs.cpp) | [code]
