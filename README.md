@@ -118,3 +118,4 @@ SWEA | Suhyun👑 | Hamin
 -|-|-
 1206 View | [code](suhyun/SWEA1206_View.cpp) | [code](hamin/Array/SWEA_1206.cpp)
 1244 최대상금 | [code(dfs)](suhyun/SWEA1244_최대상금_dfs.cpp) | [code]
+1215 회문1 | [code](suhyun/SWEA1215_회문1.cpp) | [code](hamin/BruteForce/SWEA_1215.cpp)
