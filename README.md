@@ -139,3 +139,4 @@ SWEA | Suhyun👑 | Hamin
 5658 보물상자 비밀번호 |[code](suhyun/SWEA5658_보물상자비밀번호.cpp) | [code]
 4014 활주로 건설 |[code](suhyun/SWEA4014_활주로건설.cpp) | [code]
 4206 연구소탈출 |[code](suhyun/SWEA4206_연구소탈출.cpp) | [code]
+4012 요리사 | [code](suhyun/SWEA4012_요리사.cpp) | [code]
