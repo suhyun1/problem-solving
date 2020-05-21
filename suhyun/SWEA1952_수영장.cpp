@@ -34,7 +34,7 @@ int main(int argc, char** argv)
             cin >> prices[i];
         for(int i=1; i<13;i++)
             cin >> year_plan[i];
-        min_cost = 3650;
+        min_cost = 3000*365;
         dfs(1,0);
 		
         cout << "#" << test_case << " " << min_cost << endl;
