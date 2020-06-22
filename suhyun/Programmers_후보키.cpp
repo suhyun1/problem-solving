@@ -7,25 +7,25 @@ int solution(vector<vector<string>> relation) {
     int col = relation[0].size();
     int row = relation.size();
     vector<int> answer;
-    for(int i=1; i<(1<<col);i++){   //ì¡°í•© ê°€ëŠ¥í•œ ê°œìˆ˜
-        set<string> s;
+    for(int i=1; i<(1<<col);i++){   //Á¶ÇÕ °¡´ÉÇÑ °³¼ö
+        set<vector<string> > s;     
         for(int j=0; j<row;j++){
-            string tmp="";
+            vector<string> attribute_val;   //¼Ó¼º°ªµé
             for(int k=0; k<col;k++){
                 if(i&(1<<k)){
-                    tmp+= relation[j][k];
+                    attribute_val.push_back(relation[j][k]);
                 }
             }
-            s.insert(tmp);  
-            if(s.size() == row){    //sì˜ ê°œìˆ˜ì™€ row ê°œìˆ˜ ê°™ìœ¼ë©´ ìœ ì¼ì„± ë§Œì¡±
+            s.insert(attribute_val);  
+            if(s.size() == row){    //sÀÇ °³¼ö¿Í row °³¼ö °°À¸¸é À¯ÀÏ¼º ¸¸Á·
                 bool minimality = true;
                 for(int k=0; k<answer.size();k++){
-                    if((answer[k] & i) == answer[k]){   //ex) ì¡°í•© 0001ì´ ì´ë¯¸ ì¡´ìž¬í•˜ë©´ 0011ì€ ìµœì†Œì„± ë§Œì¡±x
+                    if((answer[k] & i) == answer[k]){   //0001ÀÌ ÀÌ¹Ì Á¸ÀçÇÏ¸é 0011Àº ÃÖ¼Ò¼º ¸¸Á·x
                         minimality = false;
                         break;
                     }
                 }
-                if(minimality)      //ìµœì†Œì„± ë§Œì¡±
+                if(minimality)      //ÃÖ¼Ò¼º ¸¸Á·
                     answer.push_back(i);
             }
         }
