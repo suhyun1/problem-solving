@@ -3,6 +3,8 @@
 #include <algorithm>
 using namespace std;
 
+char map[16] = {'0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F' };
+
 //number을 n진법으로 변환
 string convert(int n, int number){
     if(number == 0)     return "0";
@@ -10,16 +12,14 @@ string convert(int n, int number){
     string result = "";
     while(number>0){
         int mod = number % n;
+        result += map[mod];
         number /= n;
-        if(mod >= 10)
-            result += (char)('A'+mod-10);
-        else 
-            result += to_string(mod);
     }
-
+    
     reverse(result.begin(), result.end());
     return result;
 }
+
 string solution(int n, int t, int m, int p) {
     string answer = "";
     string seq = "";    //전체순서
