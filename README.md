@@ -115,7 +115,7 @@ Programmers| suhyun | hamin |
 Programmers| suhyun | hamin |
 -|-|-
 실패율 | [code](suhyun/Programmers_실패율.cpp) | [code](https://hamin7.github.io/2020/11/26/failureRatio/)
-다트게임 | [code](suhyun/Programmers_다트게임.cpp) | [code]
+다트게임 | [code](suhyun/Programmers_다트게임.cpp) | [code](https://hamin7.github.io/2020/11/26/dartGame/)
 비밀지도 | [code](suhyun/Programmers_비밀지도.cpp) | [code]
 오픈 채팅방 | [code](suhyun/Programmers_오픈채팅방.cpp) | [code]
 문자열 압축 | [code](suhyun/Programmers_문자열압축_2.cpp) | [code]
