@@ -1,4 +1,4 @@
-# algorithm 문제풀이
+# Algorithm 문제풀이
 
 ## 백준
 ### Greedy, Brute-Force
@@ -114,7 +114,7 @@ Programmers| suhyun | hamin |
 ### 기출
 Programmers| suhyun | hamin |
 -|-|-
-실패율 | [code](suhyun/Programmers_실패율.cpp) | [code]
+실패율 | [code](suhyun/Programmers_실패율.cpp) | [code](https://hamin7.github.io/2020/11/26/failureRatio/)
 다트게임 | [code](suhyun/Programmers_다트게임.cpp) | [code]
 비밀지도 | [code](suhyun/Programmers_비밀지도.cpp) | [code]
 오픈 채팅방 | [code](suhyun/Programmers_오픈채팅방.cpp) | [code]
