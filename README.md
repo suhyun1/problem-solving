@@ -118,7 +118,7 @@ Programmers| suhyun | hamin |
 다트게임 | [code](suhyun/Programmers_다트게임.cpp) | [code](https://hamin7.github.io/2020/11/26/dartGame/)
 비밀지도 | [code](suhyun/Programmers_비밀지도.cpp) | [code](https://hamin7.github.io/2020/11/26/secretMap/)
 오픈 채팅방 | [code](suhyun/Programmers_오픈채팅방.cpp) | [code](https://hamin7.github.io/2020/11/30/openChattingRoom/)
-문자열 압축 | [code](suhyun/Programmers_문자열압축_2.cpp) | [code]
+문자열 압축 | [code](suhyun/Programmers_문자열압축_2.cpp) | [code](https://hamin7.github.io/2020/12/01/string-compression/)
 크레인 인형뽑기 게임 | [code](suhyun/Programmers_크레인인형뽑기게임.cpp) | [code]
 튜플 | [code](suhyun/Programmers_튜플.cpp) | [code]
 
