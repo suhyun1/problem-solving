@@ -23,7 +23,7 @@ boj| suhyun | hamin |
 -|-|-
 [10026 적록색약](https://www.acmicpc.net/problem/10026)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/DFS%2C%20BFS/10026.cpp) |[code](https://github.com/suhyun1/algorithm-study/blob/master/hamin/BFS%20%26%26%20DFS/BOJ_10026.cpp) |
 [4179 불!](https://www.acmicpc.net/problem/4179)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/4179.cpp)|
-[5427 불](https://www.acmicpc.net/problem/5427)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/boj5247.cpp)|
+[5427 불](https://www.acmicpc.net/problem/5427)|[code](https://github.com/suhyun1/algorithm-study/blob/master/suhyun/boj5247.cpp)|[code](https://hamin7.github.io/2020/12/09/boj-5427/)
 
 
 ## 프로그래머스
